@@ -1,0 +1,30 @@
+  789  ../
+  790  ls
+  791  cd learn_to_learn_assessment
+  792  ls
+  793  open readme.md
+  794  cd drills
+  795  ls
+  796  cd version-
+  797  cd version-1
+  798  ls
+  799  open readme.md
+  800  open post.md
+  801  open post-1.md
+  802  cd gshit/version-control-using-git/drills/version-1/
+  803  ../../../
+  804  mkdr git-drill-1
+  805  mkdir git-drill-1
+  806  cd git-drill-1
+  807  git init
+  808  touch readme.md index.html style.css
+  809  git remote add origin https://github.com/Mike82co/versionComntrolAttemp3.git
+  810  git add index.html
+  811  git status
+  812  git commit -m "Initial Commit attemp 3 for drill"
+  813  open readme.md
+  814  git add -A
+  815  git reset
+  816  touch app.js
+  817  git add -A
+  818  git commit -m "Cheeto McTinyhands"
